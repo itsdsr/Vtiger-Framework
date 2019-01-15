@@ -14,6 +14,6 @@ public class ContactPage extends BaseClass{
 		wLib.wairForCompleteToClick(createContact);
 	}
 
-		
+		// test
 
 }
